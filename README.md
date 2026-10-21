@@ -52,16 +52,23 @@ No separate Python installation or manual dependency setup is required.
 
 ## Preview
 
-(preview/2.jpg)
-(preview/3.jpg)
-(preview/4.jpg)
-(preview/5.jpg)
-(preview/6.jpg)
-(preview/7.jpg)
-(preview/8.jpg)
-(preview/9.jpg)
-(preview/10.jpg)
+![Datara Preview 2](preview/2.jpg)
 
+![Datara Preview 3](preview/3.jpg)
+
+![Datara Preview 4](preview/4.jpg)
+
+![Datara Preview 5](preview/5.jpg)
+
+![Datara Preview 6](preview/6.jpg)
+
+![Datara Preview 7](preview/7.jpg)
+
+![Datara Preview 8](preview/8.jpg)
+
+![Datara Preview 9](preview/9.jpg)
+
+![Datara Preview 10](preview/10.jpg)
 ## Author
 
 **Bhavya Sahni**
