@@ -52,8 +52,7 @@ No separate Python installation or manual dependency setup is required.
 
 ## Preview
 
-*Application screenshots coming soon.*
-
+(preview/1.png)
 ## Author
 
 **Bhavya Sahni**
