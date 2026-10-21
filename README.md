@@ -16,7 +16,7 @@ Datara is a desktop application for analyzing tabular data, exploring datasets, 
 
 ### Windows
 
-1. Download the latest **Datara Setup** `.exe` from the [Releases](https://github.com/YOUR_USERNAME/Datara/releases) page.
+1. Download the latest **Datara Setup** `.exe` from the [Releases](https://github.com/bhavyasahni123/Csv_analyzer/releases) page.
 2. Run the downloaded installer.
 3. Follow the installation instructions.
 4. Launch **Datara** from the Start Menu or desktop shortcut.
