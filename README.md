@@ -52,7 +52,16 @@ No separate Python installation or manual dependency setup is required.
 
 ## Preview
 
-(preview/1.png)
+(preview/2.jpg)
+(preview/3.jpg)
+(preview/4.jpg)
+(preview/5.jpg)
+(preview/6.jpg)
+(preview/7.jpg)
+(preview/8.jpg)
+(preview/9.jpg)
+(preview/10.jpg)
+
 ## Author
 
 **Bhavya Sahni**
